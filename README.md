@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 😄 My name is Maryam Panjri.
+- 🎓 I'm currently pursuing B.Tech in Artificial Intelligence and Data Science in Government Colleege of Engineering, Ratnagiri.
+- 🌱 I’m currently learning Data Structures and Algorithms in Python and Artificial Intelligence.
+- 📫 How to reach me: maryampanjri63@gmail.com
+
 <!--
 **Maryam0330/Maryam0330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
