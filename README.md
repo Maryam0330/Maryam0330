@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hello there 👋, I'm Maryam! 
 
-- 😄 My name is Maryam Panjri.
 - 🎓 I'm currently pursuing B.Tech in Artificial Intelligence and Data Science in Government College of Engineering, Ratnagiri.
 - 🌱 I’m currently learning Data Structures and Algorithms in Python.
+- 👩‍💻 I'm currently focusing on improving my python skills. 
 - 📫 How to reach me: maryampanjri63@gmail.com
 
 <!--
