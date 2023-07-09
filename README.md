@@ -1,7 +1,7 @@
 ### Hello there 👋, I'm Maryam! 
 
 - 🎓 I'm currently pursuing B.Tech in Artificial Intelligence and Data Science in Government College of Engineering, Ratnagiri.
-- 🌱 I’m currently learning Data Structures and Algorithms in Python,MySQL and R programming language.
+- 🌱 I’m currently learning Data Structures and Algorithms in Python, MySQL and R programming language.
 - 👩‍💻 I'm currently focusing on improving my python and R skills. 
 - 📫 How to reach me: maryampanjri63@gmail.com
 
