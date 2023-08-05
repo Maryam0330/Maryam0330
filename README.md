@@ -2,7 +2,7 @@
 
 - 🎓 I'm currently pursuing B.Tech in Artificial Intelligence and Data Science in Government College of Engineering, Ratnagiri.
 - 🌱 I’m currently learning Data Structures and Algorithms in Python, MySQL and Data Analysis🐍
-- 👩‍💻 Constantly honing my abilities in MySQL, Python, and Data Analysis 🐍
+- 👩‍💻 Constantly honing my abilities in MySQL, Python, and Data Analysis.
 - 📫 How to reach me: maryampanjri63@gmail.com
 
 <!--
