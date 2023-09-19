@@ -2,8 +2,9 @@
 
 - 🎓 I'm currently pursuing B.Tech in Artificial Intelligence and Data Science in Government College of Engineering, Ratnagiri.
 - 🌱 I’m currently learning and constantly honing my abilities in Python, MySQL and Data Analysis🐍
-- 📫 How to reach me: maryampanjri63@gmail.com
 - 🔭 I’m currently working on creating few projects using Python various libraries.
+- 📫 How to reach me: maryampanjri63@gmail.com
+- ⭐ Visit my profile on HackerRank : https://www.hackerrank.com/maryampanjri63
 
 <!--
 **Maryam0330/Maryam0330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
