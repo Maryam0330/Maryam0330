@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on creating few projects using Python various libraries.
 - 📫 How to reach me: maryampanjri63@gmail.com
 - ⭐ Visit my profile on HackerRank : https://www.hackerrank.com/maryampanjri63
-- 🔥Holopin board : 
+- 🔥 Holopin board : 
      [![An image of @maryam0330's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/maryam0330)](https://holopin.io/@maryam0330)
 <!--
 **Maryam0330/Maryam0330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
