@@ -7,4 +7,4 @@
 - ⭐ Visit my profile on HackerRank : https://www.hackerrank.com/maryampanjri63
 - 🚀 Part of Open Source Community and Hacktoberfest 2023 Contributer.
 - 🔥 Holopin board : 
-     [![An image of @maryam0330's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/maryam0330)](https://holopin.io/@maryam0330)
+    [![An image of @maryam0330's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/maryam0330)](https://holopin.io/@maryam0330)
