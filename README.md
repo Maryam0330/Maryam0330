@@ -4,14 +4,13 @@
 - 🌱 I’m currently honing my abilities in Power BI and R programming language.
 - 🔭 I’m currently working on creating few projects using Python various libraries.
 - 📫 How to reach me: maryampanjri63@gmail.com
-- ⭐ Visit my profile on HackerRank : https://www.hackerrank.com/maryampanjri63
 - 🚀 Part of Open Source Community and Hacktoberfest 2023 Contributer.
 - 🔥 Holopin board : 
       [![An image of @maryam0330's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/maryam0330)](https://holopin.io/@maryam0330)
 
 # 🌐 Socials:
 
-<a href="maryampanjri63@gmail.com" target="_top"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"></a>
+<a href="" target="_top"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"></a>
 <a href="https://www.linkedin.com/in/maryam-panjri/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <a href="https://twitter.com/maryam_panjri" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
 <a href="https://www.hackerrank.com/profile/maryampanjri63" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank Badge"></a>
