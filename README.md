@@ -2,7 +2,7 @@
 
 🌟 Some things about me:
 
-- 🔭 I'm a Data Science Enthusiast 📊
+- 🔭 I'm a Data Science Enthusiast.
 - 🎓 I'm currently pursuing B.Tech in Artificial Intelligence and Data Science in Government College of Engineering, Ratnagiri.
 - 🌱 I’m currently honing my abilities in Power BI and R programming language.
 - 🔭 I’m currently working on creating few projects using Python various libraries.
