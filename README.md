@@ -13,6 +13,7 @@
  
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org)
 [![MySQL](https://img.shields.io/badge/MySQL-007BFF?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![R](https://img.shields.io/badge/R-007BFF?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
 [![Numpy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23013243.svg?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
