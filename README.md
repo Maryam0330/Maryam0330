@@ -1,7 +1,7 @@
 ### Hello there 👋, I'm Maryam! 
 
 - 🎓 I'm currently pursuing B.Tech in Artificial Intelligence and Data Science in Government College of Engineering, Ratnagiri.
-- 🌱 I’m currently contributing to the open-source.
+- 🌱 I’m currently honing my abilities in Power BI and R programming language.
 - 🔭 I’m currently working on creating few projects using Python various libraries.
 - 📫 How to reach me: maryampanjri63@gmail.com
 - ⭐ Visit my profile on HackerRank : https://www.hackerrank.com/maryampanjri63
