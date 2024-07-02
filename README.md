@@ -4,10 +4,11 @@
 
 - 🔭 I'm a Data Science Enthusiast.
 - 🎓 I'm currently pursuing B.Tech in Artificial Intelligence and Data Science in Government College of Engineering, Ratnagiri.
-- 🌱 I’m currently honing my abilities in Power BI and R programming language.
-- 🔭 I’m currently working on creating few projects using Python various libraries.
+- 🌱 I’m currently honing my abilities in Data visualization tool - Tableau.
+- 🔭 I’m currently working on creating few projects using Python libraries.
 - 📫 How to reach me: maryampanjri63@gmail.com
-- 🚀 Pioneer of Open-Source Community and Hacktoberfest 2023 Contributer.
+- 🚀 Pioneer of Open-Source Community @Depths.
+- 🎉 Hacktoberfest'23 Contributer.
 - 🔥 Holopin board : 
       [![An image of @maryam0330's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/maryam0330)](https://holopin.io/@maryam0330)
 
