@@ -15,7 +15,7 @@
 
 <a href="mailto:maryampanjri63@gmail.com" target="_top"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"></a>
 <a href="https://www.linkedin.com/in/maryam-panjri/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-<a href="https://twitter.com/maryam_panjri" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
+<a href="https://x.com/maryam_panjri" target="_blank"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"></a>
 <a href="https://www.hackerrank.com/profile/maryampanjri63" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank Badge"></a>
 <a href="https://leetcode.com/u/1kriDZgoj5/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode Badge"></a>
 <a href="https://github.com/Maryam0330" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"></a>
@@ -37,5 +37,6 @@
 
 [![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 [![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com)
-[![Tableau](https://img.shields.io/badge/Tableau-00A6D6?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com)
+[![Tableau](https://img.shields.io/badge/Tableau-white?style=for-the-badge&logo=tableau&logoColor=blue)](https://www.tableau.com)
+
 
