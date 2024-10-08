@@ -16,7 +16,7 @@
 <a href="mailto:maryampanjri63@gmail.com" target="_top"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"></a>
 <a href="https://www.linkedin.com/in/maryam-panjri/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <a href="https://x.com/maryam_panjri" target="_blank"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"></a>
-<a href="https://www.hackerrank.com/profile/maryampanjri63" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank Badge"></a>
+<a href="https://www.hackerrank.com/profile/maryampanjri63" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-black?style=for-the-badge&logo=HackerRank&logoColor=2EC866" alt="Hackerrank Badge"></a>
 <a href="https://leetcode.com/u/1kriDZgoj5/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode Badge"></a>
 <a href="https://github.com/Maryam0330" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"></a>
 
