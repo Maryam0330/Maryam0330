@@ -1,6 +1,6 @@
 ### Hello there 👋, I'm Maryam Panjri! 
 
-🌟 Some things about me:
+:octocat: Some things about me:
 
 - 🔭 I'm a Data Science Enthusiast.
 - 🎓 I'm currently pursuing B.Tech in Artificial Intelligence and Data Science in Government College of Engineering, Ratnagiri.
