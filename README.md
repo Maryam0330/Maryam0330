@@ -5,6 +5,7 @@
 - 🔭 I'm a Data Science Enthusiast.
 - 🎓 I'm currently pursuing B.Tech in Artificial Intelligence and Data Science in Government College of Engineering, Ratnagiri.
 - 🌱 I’m currently learning Machine Learning, NLP, DevOps, MLOps.
+- 🤝 I’m looking to collaborate on open-source projects.
 - 📫 How to reach me: maryampanjri63@gmail.com
 - 🚀 Pioneer of Open-Source Community @Depths.
 - 🎉 Contributor @Hacktoberfest'23.
