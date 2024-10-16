@@ -1,4 +1,4 @@
-### Hello there 👋, I'm Maryam Panjri! 
+### Hello there 👋, I'm Maryam! 
 
 :octocat: Some things about me:
 
@@ -40,4 +40,7 @@
 [![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com)
 [![Tableau](https://img.shields.io/badge/Tableau-white?style=for-the-badge&logo=tableau&logoColor=blue)](https://www.tableau.com)
 
+---
+
+<img src="https://komarev.com/ghpvc/?username=Maryam0330&color=blue" alt="Profile Views" width="120"/>
 
