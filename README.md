@@ -8,7 +8,7 @@
 - 🤝 I’m looking to collaborate on open-source projects.
 - 📫 How to reach me: maryampanjri63@gmail.com
 - 🚀 Pioneer of Open-Source Community @Depths.
-- 🎉 Contributor @Hacktoberfest'23 & '24 and @GSSoc Extd'24
+- 🎉 Contributor @Hacktoberfest'23 & '24 and @GSSoC Extd'24
 - 🔥 Holopin board for Hacktoberfest: 
       [![An image of @maryam0330's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/maryam0330)](https://holopin.io/@maryam0330)
 
