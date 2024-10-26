@@ -9,10 +9,22 @@
 - 📫 How to reach me: maryampanjri63@gmail.com
 - 🚀 Pioneer of Open-Source Community @Depths.
 - 🎉 Contributor @Hacktoberfest'23 & '24 and @GSSoC Extd'24
-- 🔥 Holopin board for Hacktoberfest: 
-      [![An image of @maryam0330's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/maryam0330)](https://holopin.io/@maryam0330)
+  
+## 🔥 Holopin board for Hacktoberfest
+  
+[![An image of @maryam0330's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/maryam0330)](https://holopin.io/@maryam0330)
 
-# 🌐 Socials:
+##  🪶 GSSoC Extd (2024) Badges
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+</div>
+
+## 🌐 Socials
 
 <a href="mailto:maryampanjri63@gmail.com" target="_top"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"></a>
 <a href="https://www.linkedin.com/in/maryam-panjri/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
@@ -22,7 +34,7 @@
 <a href="https://github.com/Maryam0330" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"></a>
 
 
-# 🔧 Tech Stack:
+## 🔧 Tech Stacks
  
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org)
 [![MySQL](https://img.shields.io/badge/MySQL-007BFF?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
@@ -34,13 +46,12 @@
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931A.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://jupyter.org)
 
-# Others:
+## Others
 
 [![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 [![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com)
 [![Tableau](https://img.shields.io/badge/Tableau-white?style=for-the-badge&logo=tableau&logoColor=blue)](https://www.tableau.com)
 
----
+## Profile views
 
 <img src="https://komarev.com/ghpvc/?username=Maryam0330&color=blue" alt="Profile Views" width="120"/>
-
